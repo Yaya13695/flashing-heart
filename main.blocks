@@ -1,4 +1,4 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@h|(V#F!K(nn%+0jcs$2" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="[Q[Uyd.6ow%$o8|lLSsK"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="@h|(V#F!K(nn%+0jcs$2" x="207" y="117"><statement name="HANDLER"><block type="device_show_leds" id="[Q[Uyd.6ow%$o8|lLSsK"><field name="LEDS">`
         . # . # . 
         # # # # # 
         # # # # # 
